@@ -1,0 +1,20 @@
+#footer {
+  background-color:$gray-dark;
+  padding: 30px 0;
+  color:$gray;
+  a {
+    color: $gray;
+    font-size:30px;
+    letter-spacing:20px;
+  }
+  p {
+    margin-top:15px;
+  }
+  a:hover {
+    color:$yellow;
+  }
+}
+
+.list-inline {
+  padding: 0 2px; 
+}
